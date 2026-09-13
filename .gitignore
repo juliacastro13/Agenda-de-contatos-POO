@@ -1,0 +1,7 @@
+*.sh
+
+*.class
+
+bin/
+
+.vscode/
